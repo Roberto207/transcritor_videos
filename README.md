@@ -1,2 +1,2 @@
-# transcritor_videos
-transcritor de videos preciso usando whisper
+transcritor de videos usando whisper,com caminho de video 
+
